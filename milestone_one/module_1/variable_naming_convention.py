@@ -6,5 +6,5 @@ x = 11
 print(x)
 
 # firstName = "Rakibul" - Camel Case
-oneTwoThreeFour = 1234
-one_two_three_four = "Snack Case"
+# oneTwoThreeFour = 1234
+# one_two_three_four = "Snack Case"
